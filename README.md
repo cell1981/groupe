@@ -1,6 +1,7 @@
 # groupe
 ### There's magic, it brought us together, and that magic is called hope. 
 ### 有一种魔法把我们联结在了一起，这种魔法叫希望。
+
 ------
 
 
@@ -21,7 +22,7 @@ d.<br>
 e.<br>
 无经验者在此寻找师傅，参与师傅的项目获得部分收入。<br>
 ......<br>
-------
+
 
 或许还有更多的应用场景，不过得看项目在大家手中如何发展了。<br>
 <br>
