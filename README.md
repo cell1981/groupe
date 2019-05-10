@@ -2,6 +2,8 @@
 ### There's magic, it brought us together, and that magic is called hope. 
 ### 有一种魔法把我们联结在了一起，这种魔法叫希望。
 ------
+
+
 groupe这个单词有多重意思，不过我想表达的是group hope的意义。<br>
 我写这个项目想要达到的目的是发展基于职业生存的教与学，<br>
 建立牢固的师徒关系，突破培训班流水线式的灌输教育。<br>
